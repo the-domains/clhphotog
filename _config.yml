@@ -1,0 +1,14 @@
+layout_spectrum: 0
+color:
+  saturation: 0.8995703
+  lightness: 0.2808808
+  brandStrength: 0.8254564
+  brandColors:
+    - '#010101'
+    - '#CFFAFA'
+    - '#6ED0E9'
+    - '#D8CF90'
+    - '#A2441E'
+  rhythmicContrast: 0.8856068
+typography_spectrum: 0.1562836
+name: CLHPhotog
