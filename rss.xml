@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Cody L Hall's Photography]]></title>
         <description><![CDATA[Cody L Hall's Photography]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/clhphotog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Mar 2016 21:49:17 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 09 Mar 2016 09:31:57 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/clhphotog/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c8b92b6e-c96b-4986-b929-e17def06e7cc.jpg">]]></description>
+            <link>https://thegrid.ai/clhphotog/7c230916-5852-40b4-b0a0-c1c986d8e8cc/index.html</link>
+            <guid isPermaLink="false">7c230916-5852-40b4-b0a0-c1c986d8e8cc</guid>
+            <pubDate>Wed, 09 Mar 2016 09:31:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d85a3185-2d77-48fc-a4c6-df46c4e88ff0.png">]]></description>
-            <link>undefinedbbfa6fc7-ffed-4fa4-b4d1-0269da5af672/index.html</link>
+            <link>https://thegrid.ai/clhphotog/bbfa6fc7-ffed-4fa4-b4d1-0269da5af672/index.html</link>
             <guid isPermaLink="false">bbfa6fc7-ffed-4fa4-b4d1-0269da5af672</guid>
             <pubDate>Tue, 08 Mar 2016 21:48:49 GMT</pubDate>
         </item>
